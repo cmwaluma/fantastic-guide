@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: #f4f6f8;
+    padding: 30px;
+    background-image: url('pexels-jsantiagoph-3537908643.jpg');
+}
+table{
+    width: 100%;
+    
+
+}
+th,td{
+    padding: 12px;
+    border: 2px solid #ddd;
+    border-collapse: collapse;
+    text-align: left;
+}
+th{
+    background: #1f2937;
+    color: #fff;
+}
+tr:hover{
+    background: red;
+}
+h2{
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+   
+}
